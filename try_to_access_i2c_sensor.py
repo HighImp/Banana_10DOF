@@ -2,4 +2,4 @@ from sensor import *
 
 
 
-print "allways tight"
+print "Time 4 bed"
